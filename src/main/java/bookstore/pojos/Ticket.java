@@ -3,8 +3,8 @@ package bookstore.pojos;
 import java.util.Scanner;
 
 public class Ticket extends Product {
-    public String description = "";
-    public double price = 0.0;
+    private String description = "";
+    private double price = 0.0;
 
     @Override
     public void sellItem() {
@@ -23,6 +23,18 @@ public class Ticket extends Product {
 
         System.out.println("Enter Price:");
         this.price = getInput(input, 0.0);
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public void setDescription(String description) {
+        this.description = description;
+    }
+
+    public void setPrice(double price) {
+        this.price = price;
     }
 
     @Override
