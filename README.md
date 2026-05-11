@@ -1,6 +1,9 @@
 # Bookstore CLI Application
 
-A console-based Java application for managing a bookstore inventory, performing sales, and tracking cash flow. This project demonstrates object-oriented programming concepts including inheritance, polymorphism, and interface implementation in Java 24.
+> - [git repository](https://github.com/fcarella/lab1-exercise-fred-carella-csd214-s26)
+>  - [based on bookstore git repository: ](https://github.com/fcarella/bookstore-2026-01-30)
+
+- A console-based Java application for managing a bookstore inventory, performing sales, and tracking cash flow. This project demonstrates object-oriented programming concepts including inheritance, polymorphism, and interface implementation in Java 24.
 
 ## Features
 
