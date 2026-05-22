@@ -56,7 +56,7 @@ public abstract class VehiclePart extends Product {
         this.manufacturer= getInput(input, "Unknown Manufacturer");
 
         System.out.println("Enter Price");
-        this.price= getInput(input, 0);
+        this.price= getInput(input, 0.0);
 
     }
 
