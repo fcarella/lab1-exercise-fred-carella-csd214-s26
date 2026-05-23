@@ -1,10 +1,10 @@
 ***
 
 # Bookstore CLI Application
-- 2026-05-01
+- for the csd214 course summer 26 delivery : [course outline](https://welearn.saultcollege.ca/shared/CourseOutlines/csd214_Course_Outline.pdf) 
 > - [git repository](https://github.com/fcarella/lab1-exercise-fred-carella-csd214-s26)
-    >  - [based on bookstore git repository: ](https://github.com/fcarella/bookstore-2026-01-30)
-
+> - [based on bookstore (git repository): ](https://github.com/fcarella/bookstore-2026-01-30)
+> - [this exercise is covered in this lecture...](https://docs.google.com/document/d/1N8mfXnbmEHYcpEE1G3YnafFOytEmAnNpJvF6KsBTht0/edit?usp=sharing)
 - A console-based Java application for managing a bookstore inventory, performing sales, and tracking cash flow. This project demonstrates object-oriented programming concepts including inheritance, polymorphism, and interface implementation in Java 24.
 
 ## Features
