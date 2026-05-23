@@ -1,7 +1,7 @@
 ***
 
 # Bookstore CLI Application
-
+- 2026-05-01
 > - [git repository](https://github.com/fcarella/lab1-exercise-fred-carella-csd214-s26)
     >  - [based on bookstore git repository: ](https://github.com/fcarella/bookstore-2026-01-30)
 
